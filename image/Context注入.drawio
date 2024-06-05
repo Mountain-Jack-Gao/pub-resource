@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T10:12:41.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RxWzyXedA0Uq3cfSVouO" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T10:28:02.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="-yCBzisBS4EQMSoo8yWC" version="24.4.13" type="github">
   <diagram name="第 1 页" id="g26ovN0Hiqw2VFIlpo5D">
     <mxGraphModel dx="1195" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PCZND6x2Az523Irm6-EB-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="140" width="598" height="460" as="geometry" />
+          <mxGeometry x="68" y="134" width="598" height="460" as="geometry" />
         </mxCell>
         <mxCell id="PCZND6x2Az523Irm6-EB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="360" height="380" as="geometry" />
@@ -182,8 +182,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PCZND6x2Az523Irm6-EB-135" value="Context-深浅拷贝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="82" y="150" width="108" height="30" as="geometry" />
+        <mxCell id="PCZND6x2Az523Irm6-EB-135" value="Context -- 缓存map容器自身深拷贝，容器引用浅拷贝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="150" width="318" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
